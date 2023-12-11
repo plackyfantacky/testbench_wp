@@ -1,0 +1,32 @@
+#development
+.env
+node_modules/
+vendor/
+wp-content/db.php
+wp-content/plugins/wp-tinkerwell.php
+wp-content/plugins/query-monitor-3.15.0
+
+#platform
+.DS_Store
+Thumbs.db
+*.app
+*.exe
+*.war
+
+# Wordpress common files
+.htaccess
+readme.html
+
+# Wordpress content
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup-db/
+wp-content/advanced-cache.php
+wp-content/wp-cache-config.php
+wp-content/backup-db/
+wp-content/backup-db/*
+wp-content/cache/*
+wp-content/upgrade/*
+wp-content/upgrade-temp-backup/*
+wp-content/uploads/*
+

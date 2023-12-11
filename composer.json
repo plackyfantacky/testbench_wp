@@ -1,0 +1,12 @@
+{
+    "name": "adamtrickett/testbench",
+    "authors": [
+        {
+            "name": "Adam Trickett",
+            "email": "adamt@workhouse.au"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
