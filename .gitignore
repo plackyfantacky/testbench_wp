@@ -30,3 +30,13 @@ wp-content/upgrade/*
 wp-content/upgrade-temp-backup/*
 wp-content/uploads/*
 
+# Wordpress themes and pluging (only for this repository)
+wp-content/themes
+wp-content/themes/
+wp-content/themes/*
+wp-content/plugins
+wp-content/plugins/
+wp-content/plugins/*
+wp-content/mu-plugins
+wp-content/mu-plugins/
+wp-content/mu-plugins/*
